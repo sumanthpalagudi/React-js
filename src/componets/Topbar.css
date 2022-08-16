@@ -1,0 +1,21 @@
+.top-bar{
+    background-image: linear-gradient(to right,rgb(251, 242, 221), rgb(247, 221, 152));
+    
+}
+.App-logo {
+    width:15vw ;
+    margin-bottom: 10%;
+  }
+.Main-text{
+    margin-left: 10%;
+    width: 100%;
+    font-size:3.5vw;;
+}
+.Sub-text{
+    margin-left: 10%;
+    font-size: 1.5vw;
+}
+.year{
+    font-size: 1.5vw;
+    float: right;
+}

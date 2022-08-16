@@ -1,0 +1,25 @@
+.labels{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+.label{
+    font-size: 1.5vw;
+    
+}
+.form-items{
+    display: inline;
+    width: 90%;
+    height: 30px;
+    border-width:1px;
+    border-color:gray;
+    border-radius: 3px;
+}
+.save{
+    width: 12vw;
+    height: 30px;
+    display: block;
+    margin-left: 43%;
+    margin-top: 20px;
+    font-size: 1vw ;
+
+}
